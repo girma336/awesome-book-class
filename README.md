@@ -48,6 +48,8 @@ To get a local copy up and running follow these simple example steps.
 👤 **Obed **
 
 - GitHub [@obed](https://github.com/obed300)
+- Email [Obed Bamfo] (https://email.com/obamfo@st.ug.edu.gh)
+
 
 
 
