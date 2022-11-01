@@ -1,0 +1,63 @@
+.container {
+  display: block;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.library {
+  position: relative;
+  border: 1px solid black;
+  margin-bottom: 20px;
+  background-color: white;
+}
+
+.library .new-lib {
+  width: 98%;
+  margin-left: 5px;
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 30px;
+  border-radius: 6px;
+}
+
+.black {
+  width: 100px;
+  height: 5px;
+  border-radius: 5px;
+  background-color: black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.color-block:nth-child(even) {
+  background-color: rgb(228, 224, 224);
+}
+
+h1 {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+h2 {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 700;
+  font-style: y italic;
+}
+
+.form {
+  margin-left: 25%;
+  margin-right: 25%;
+  width: 50%;
+  text-align: center;
+}
+
+.end-block {
+  width: 50px;
+  font-size: 14px;
+  font-weight: 700;
+  margin-left: 120px;
+}
